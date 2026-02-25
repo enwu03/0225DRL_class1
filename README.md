@@ -3,7 +3,7 @@
 I have successfully designed, built, and deployed a premium personal single-page website for **Yunen Wu**.
 
 ## Demo
-Local Link: [file:///D:/L1/index.html](file:///D:/L1/index.html)
+Demo Site: [https://enwu03.github.io/0225DRL_class1/](https://enwu03.github.io/0225DRL_class1/)
 
 ## 1. Web Development
 I created a modern, visually stunning single-page application with the following components:
